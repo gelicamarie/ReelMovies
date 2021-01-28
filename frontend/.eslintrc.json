@@ -1,0 +1,26 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": ["plugin:react/recommended", "airbnb"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": ["react"],
+  "rules": {
+    // Rules are no longer necessary React v17
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off",
+    // Less strict with .jsx
+    "react/jsx-filename-extension": "off",
+    // It can be useful at times if not abused
+    "react/jsx-props-no-spreading": "off",
+    // Too much work for now
+    "linebreak-style": "off"
+  }
+}
