@@ -67,10 +67,10 @@
 * [Node Version 14](https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi)
 * Database Setup : [init-db.js](https://github.com/gelicamarie/ReelMovies/blob/main/backend/src/init-db.js)
   * Run mongoDB and onto the project: 
-  ```sh
-  cd backend
-  npm run db
-  ```
+    ```sh
+    cd backend
+    npm run db
+    ```
   * Uncomment and run these lines in order to populate the database (wait for each to finish before running the next line)
     ```sh
     168: moviesCollection(includeInMovies);
