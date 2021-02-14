@@ -99,13 +99,13 @@
     ```
     
     Continue Running these three lines in [init-db.js](https://github.com/gelicamarie/ReelMovies/blob/main/backend/src/init-db.js), one by one
-           ```sh
+     ```sh
     173:  updateObjectId('actors');
     ```
      ```sh
     174: updateObjectId('directors');
     ```
-       ```sh
+    ```sh
     175:  updateObjectId('writers');
     ```
     
