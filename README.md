@@ -11,11 +11,11 @@
   <h4>A fullstack web application modeled similarly to the Internet Movie Database. </h4>
   <p> Technologies used:  </p>
   <p> <a href="https://reactjs.org/">React.JS</a></p>
-  <p> <a href="https://tailwindcss.com/ TailwindCSS</a> </p>
+  <p> <a href="https://tailwindcss.com/">TailwindCSS</a> </p>
   <p> <a href= "https://nodejs.org/en/">Node.JS</a></p> 
-  <p> <a href= "https://www.mongodb.com)">MongoDB</a></p> 
-
-
+  <p> <a href= "https://www.mongodb.com">MongoDB</a></p> 
+ <img src="https://github.com/gelicamarie/ReelMovies/blob/main/frontend/public/movieList.jpg" width="700" >
+ <img src="https://github.com/gelicamarie/ReelMovies/blob/main/frontend/public/movie.jpg" width="700" >
 </div>
 
 
