@@ -1,40 +1,22 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="left">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="logo.png" alt="Logo" width="230" height="120">
-  </a>
-
-  <h3 align="left">Reel Movies Database</h3>
-
-  <p align="left">
-    A fullstack web application modeled similarly to the Internet Movie Database. 
-    <br />
+<div align="center">
+  <p>
+    <a href="https://github.com/github_username/repo_name">
+      <img src="logo.png" alt="Logo" width="230" height="120">
+    </a>
   </p>
-</p>
+  <h2>Reel Movies Database</h2>
+  <h6>  COMP 2406 Final Project with Dave McKenney</h6>
+  <h4>A fullstack web application modeled similarly to the Internet Movie Database. </h4>
+  <p> Technologies used:  </p>
+  <p> <a href="https://reactjs.org/">React.JS</a></p>
+  <p> <a href="https://tailwindcss.com/ TailwindCSS</a> </p>
+  <p> <a href= "https://nodejs.org/en/">Node.JS</a></p> 
+  <p> <a href= "https://www.mongodb.com)">MongoDB</a></p> 
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-  </ol>
-</details>
+</div>
 
 
 
@@ -53,15 +35,9 @@
 * Search for Movies
 
 
-### Built With
-  * [React.JS](https://reactjs.org/)
-  * [TailwindCSS](https://tailwindcss.com/)
-  * [Node.JS](https://nodejs.org/en/)
-  * [MongoDB](https://www.mongodb.com/)
-
   
 <!-- GETTING STARTED -->
-## Getting Started
+## ## 🛠 Installation & Set Up
 ### Prerequisites
 
 * [Node Version 14](https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi)
@@ -109,7 +85,7 @@
     175:  updateObjectId('writers');
     ```
     
-### 🛠 Installation & Set Up
+### 🚀 Building and Running
 
 1. Clone the repo
    ```sh
